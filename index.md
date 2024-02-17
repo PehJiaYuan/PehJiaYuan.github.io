@@ -18,6 +18,7 @@
 <br>
 
 <center><img src="images/wordcloud_plots.png"/></center>
+<center><img src="images/emt_valance.png"/></center>
 <center><img src="images/sentiment_plots.png"/></center>
 
 ---
