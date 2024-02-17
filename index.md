@@ -17,7 +17,7 @@
 
 <br>
 
-<center><img src="images/wrdcloud_plots.png"/></center>
+<center><img src="images/wrd_cloud_plots.png"/></center>
 <center><img src="images/senti_plots.png"/></center>
 
 ---
