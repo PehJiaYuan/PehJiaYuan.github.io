@@ -1,0 +1,22 @@
+title: <p align="center"> Peh Jia Yuan </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/jia-yuan-peh-284021230/">LinkedIn</a> |
+  <a href="https://github.com/pehjiayuan">GitHub</a>
+  </p>
+  
+  <p align="left">
+  Accountancy with Digitalisation and Data Analytics NTU undergraduate | Seeking to transition into Data Analytics 
+  <br><br>
+  As a self motivated indivdual, I am actively expanding my skill set through self-directed learning of different programming languages to enhance my skill set.
+  <br><br>
+  </p>
+
+
+  
+theme: jekyll-theme-minimal
+google_analytics: # Google Analytics tracking ID
