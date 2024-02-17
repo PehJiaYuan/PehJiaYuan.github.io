@@ -23,7 +23,7 @@
 ---
 ### Project 2: Business Analysis using Microsoft SQL Server, Tableau and Microsoft Power BI
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PehJiaYuan/Pizza-Sales-Analysis)
 [![View on Tableau Public](https://img.shields.io/badge/Tableau_Public-View_on_Tableau_Public-blue?logo=Tableau)](https://public.tableau.com/app/profile/peh.jia.yuan/vizzes)
 
 <div style="text-align: justify">Employed SQL to perform data cleaning and calculations of crucial sales Key Performance Indicators. Subsequently, I utilised Tableau and Power BI to visualisat the derived insigts offering a clear and dynamic representation of the shops'business performance.</div>
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-### **Visualisation using Tableau**
+Visualisation using Tableau
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-### **Visualisation using Microsoft Power BI**
+Visualisation using Microsoft Power BI
 
 </div>
 
