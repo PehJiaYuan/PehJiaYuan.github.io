@@ -51,7 +51,7 @@ Visualisation using Microsoft Power BI
 ---
 ### Project 3: Assesed and Predicted potential risk of default by credit card clients using Decision Trees (CART) and Logistic Regression
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PehJiaYuan/Credit-Card-Default-Analysis-and-Prediction-using-R-programming)
 
 <div style="text-align: justify"> Applied the Decision Trees using CART (Classification and Regression Trees) Model and Logistic Regression Model to perform an extensive analysis of credit card default risk. Additionaly, I conducted a comparative assessment of both models to ascertain their respective accuracies in predicting default occurrences. This rigorous evaluation aimed to discern the superior predictive performance within the context of credit card default risk</div>
 
