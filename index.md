@@ -17,9 +17,8 @@
 
 <br>
 
-<center><img src="images/wordcloud_plots.png"/></center>
-<center><img src="images/emt_valance.png"/></center>
-<center><img src="images/sentiment_plots.png"/></center>
+<center><img src="images/wrdcloud_plots.png"/></center>
+<center><img src="images/senti_plots.png"/></center>
 
 ---
 ### Project 2: Business Analysis using Microsoft SQL Server, Tableau and Microsoft Power BI
