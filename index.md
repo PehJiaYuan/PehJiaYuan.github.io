@@ -11,7 +11,7 @@
 
 ### Project 1: Created a WordCloud and conducted Sentiment Analysis on Singapore Budget 2023 speech using Text Mining in R programming
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PehJiaYuan/WordCloud-and-SentimentAnalysis-Using-R-Programming)
 
 <div style="text-align: justify">Used R programming to create insightful WordCloud which visually encapsulates the most prominent themes and priorities outlined in the Budget 2023 speech. Additionally, I employed Sentiment Analysis to gauge how the public is likely to percieve and react to the budgetary announcements.</div> 
 
