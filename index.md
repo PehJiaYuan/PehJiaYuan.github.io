@@ -28,6 +28,7 @@
 
 <div style="text-align: justify">Employed SQL to perform data cleaning and calculations of crucial sales Key Performance Indicators. Subsequently, I utilised Tableau and Power BI to visualisat the derived insigts offering a clear and dynamic representation of the shops'business performance.</div>
 
+<br>
 
 <div align="center">
 
