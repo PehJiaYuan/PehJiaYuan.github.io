@@ -18,7 +18,7 @@
   + A Pizza shop is facing a business challenge in understanding customer preferences and optimizing their menu. They would like to utilize data analytics to improve overall business performance and identify their best-selling pizza to focus on marketing and promotion efforts.
 
 ### Solution Plan:
-  + Employed SQL to perform data cleaning and extraction of crucial sales Key Performance Indicators(KPIs). Subsequently, I utilised Tableau and Power BI to visualisat the derived insigts offering a clear and dynamic representation of the shops'business performance. Lastly, I formulated recommendations on how to improve business performance of the Pizza Shop.  </div>
+  + Employed SQL to perform data cleaning and extraction of crucial sales Key Performance Indicators(KPIs). Subsequently, I utilised Tableau and Power BI to visualisat the derived insigts offering a clear and dynamic representation of the shops'business performance. Lastly, I formulated recommendations on how to improve business performance of the Pizza Shop.
 
 
 <div align="center">
@@ -29,7 +29,7 @@
 <center><img src="images/pizza_tableau_home.png"/></center>
 <center><img src="images/pizza_tableau_best_worst_sellers.png"/></center>
 
-
+<br>
 <div align="center">
     <h3><strong>Visualisation using Microsoft Power BI</strong></h3>
 </div>
