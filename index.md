@@ -42,12 +42,17 @@
 <center><img src="images/powerbi_best_worst_sellers.png"/></center>
 
 ---
-### Project 2: Created a WordCloud and conducted Sentiment Analysis on Singapore Budget 2023 speech using Text Mining in R programming
+### Project 2: Generated a WordCloud and conducted Sentiment Analysis on Singapore Budget 2023 speech using Text Mining in R programming
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PehJiaYuan/WordCloud-and-SentimentAnalysis-Using-R-Programming)
 
-<div style="text-align: justify">Used R programming to create insightful WordCloud which visually encapsulates the most prominent themes and priorities outlined in the Budget 2023 speech. Additionally, I employed Sentiment Analysis to gauge how the public is likely to percieve and react to the budgetary announcements.</div> 
+### Background:
+  + I was interested in how to leverage data anlytics to get a brief understanding and overview of the main subject of focus without haveing to dive too deep into extremely long texts. Hence I decicded to explore the use of R programming to perform web scraping and data cleaning. Additionaly, I created an insightful WordCloud which visually encapsulates the most prominent themes and priorities outlined in the Budget 2021 speech. Furthermore, I employed Sentiment Analysis to gauge how the public is likely to percieve and react to the budgetary announcements.</div> 
 
+### Findings:
+  + From the 10 most frequent words, I can infer the key message from the budget is that there “Will” be “Support” for“Business” and “Worker” because of “Covid”. Further investigation through additional literature research indicates that 2021 was a period whereby the COVID-19 cases  in Singapore were high and many businesses were facing challenges due to measures such as cicuit breaker and dining restrictions imposed by the government.
+  + From the sentimental analysis, the valence of the emotion contained in the speech is generally positive throughout. Overall, the budget speech encompasses sentiments primarily linked to themes of Trust, Anticipation, and Joy.
+  + 
 <br>
 
 <center><img src="images/wrd_cloud_plots.png"/></center>
