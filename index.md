@@ -43,7 +43,8 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PehJiaYuan/WordCloud-and-SentimentAnalysis-Using-R-Programming)
 
 ### Background:
-  + I was interested in how to leverage data anlytics to get a brief understanding and overview of the main subject of focus without haveing to dive too deep into extremely long texts. Hence I decicded to explore the use of R programming to perform web scraping and data cleaning. Additionaly, I created an insightful WordCloud which visually encapsulates the most prominent themes and priorities outlined in the Budget 2021 speech. Furthermore, I employed Sentiment Analysis to gauge how the public is likely to percieve and react to the budgetary announcements.</div> 
+  + I was interested in how to leverage data anlytics to get a brief understanding and overview of the main subject of focus without haveing to dive too deep into extremely long texts. Hence I decicded to explore the use of R programming to perform web scraping and data cleaning.
+  + I created an insightful WordCloud which visually encapsulates the most prominent themes and priorities outlined in the Budget 2021 speech. Furthermore, I employed Sentiment Analysis to gauge how the public is likely to percieve and react to the budgetary announcements.
 
 ### Findings:
   + From the 10 most frequent words, I can infer the key message from the budget is that there “Will” be “Support” for“Business” and “Worker” because of “Covid”. Further investigation through additional literature research indicates that 2021 was a period whereby the COVID-19 cases  in Singapore were high and many businesses were facing challenges due to measures such as cicuit breaker and dining restrictions imposed by the government.
