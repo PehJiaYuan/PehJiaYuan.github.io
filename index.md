@@ -26,7 +26,7 @@
 
 <div align="center">
 
-Visualisation using Tableau
+### Visualisation using Tableau
 
 </div>
 
@@ -35,7 +35,7 @@ Visualisation using Tableau
 
 <div align="center">
 
-Visualisation using Microsoft Power BI
+### Visualisation using Microsoft Power BI
 
 </div>
 
