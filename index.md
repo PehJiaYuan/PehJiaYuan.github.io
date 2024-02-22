@@ -67,8 +67,11 @@
   + Applied the Decision Trees using CART (Classification and Regression Trees) Model and Logistic Regression Model to perform an extensive analysis of credit card default risk.
   + Additionaly, I conducted a comparative assessment of both models to ascertain their respective accuracies in predicting default occurrences. This rigorous evaluation aimed to discern the superior predictive performance within the context of credit card default risk</div>
 
-<br>
-<center>![image](https://github.com/PehJiaYuan/PehJiaYuan.github.io/assets/160102531/bde58e3c-e4cf-4e23-9d8e-61fd283660b3)</center>
+
+<div align="center">
+![image](https://github.com/PehJiaYuan/PehJiaYuan.github.io/assets/160102531/89c7df47-3164-4d58-86da-5d6eaa00d1c3)
+</div>
+
 
 ---
 
