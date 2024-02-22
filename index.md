@@ -51,8 +51,9 @@
 
 ### Findings:
   + From the 10 most frequent words, I can infer the key message from the budget is that there “Will” be “Support” for“Business” and “Worker” because of “Covid”. Further investigation through additional literature research indicates that 2021 was a period whereby the COVID-19 cases  in Singapore were high and many businesses were facing challenges due to measures such as cicuit breaker and dining restrictions imposed by the government.
-  + From the sentimental analysis, the valence of the emotion contained in the speech is generally positive throughout. Overall, the budget speech encompasses sentiments primarily linked to themes of Trust, Anticipation, and Joy.
-  + 
+  + From the sentimental analysis, the valence of the emotion contained in the speech is generally positive throughout.
+  + Overall, the budget speech encompasses sentiments primarily linked to themes of Trust, Anticipation, and Joy.
+
 <br>
 
 <center><img src="images/wrd_cloud_plots.png"/></center>
@@ -63,10 +64,15 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PehJiaYuan/Credit-Card-Default-Analysis-and-Prediction-using-R-programming)
 
-<div style="text-align: justify"> Applied the Decision Trees using CART (Classification and Regression Trees) Model and Logistic Regression Model to perform an extensive analysis of credit card default risk. Additionaly, I conducted a comparative assessment of both models to ascertain their respective accuracies in predicting default occurrences. This rigorous evaluation aimed to discern the superior predictive performance within the context of credit card default risk</div>
+### Business Problem Scenario:
+  + In an increasingly competitive market, banks are under pressure to attract and retain customers by offering credit card products with attractive terms and rewards. However, the allure of credit comes with inherent risks, particularly in times of economic volatility or changing consumer behavior. The ability to effectively assess and manage default risks is crucial for maintaining the bank's financial stability and competitive edge.
+
+### Solution Plan:
+  + Applied the Decision Trees using CART (Classification and Regression Trees) Model and Logistic Regression Model to perform an extensive analysis of credit card default risk.
+  + Additionaly, I conducted a comparative assessment of both models to ascertain their respective accuracies in predicting default occurrences. This rigorous evaluation aimed to discern the superior predictive performance within the context of credit card default risk</div>
 
 <br>
-<center><img src="images/credi_card_plots.png"/></center>
+<center>![image](https://github.com/PehJiaYuan/PehJiaYuan.github.io/assets/160102531/bde58e3c-e4cf-4e23-9d8e-61fd283660b3)</center>
 
 ---
 
