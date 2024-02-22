@@ -22,7 +22,7 @@
 
 <div align="center
  
-### Visualisation using Tableau
+<b>Visualisation using Tableau<b>
 
 </div>
 
