@@ -65,7 +65,7 @@
 
 ### Solution Plan:
   + Applied the Decision Trees using CART (Classification and Regression Trees) Model and Logistic Regression Model to perform an extensive analysis of credit card default risk.
-  + Additionaly, I conducted a comparative assessment of both models to ascertain their respective accuracies in predicting default occurrences. This rigorous evaluation aimed to discern the superior predictive performance within the context of credit card default risk</div>
+  + Additionaly, I conducted a comparative assessment of both models to ascertain their respective accuracies in predicting default occurrences. This rigorous evaluation aimed to discern the superior predictive performance within the context of credit card default risk
 
 
 <center><img src="images/cart_logistic.png"/></center>
