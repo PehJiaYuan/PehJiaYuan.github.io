@@ -14,15 +14,14 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PehJiaYuan/Pizza-Sales-Analysis)
 [![View on Tableau Public](https://img.shields.io/badge/Tableau_Public-View_on_Tableau_Public-blue?logo=Tableau)](https://public.tableau.com/app/profile/peh.jia.yuan/vizzes)
  
-
 ### Business Problem Scenario:
   + A Pizza shop is facing a business challenge in understanding customer preferences and optimizing their menu. They would like to utilize data analytics to improve overall business performance and identify their best-selling pizza to focus on marketing and promotion efforts.
 
 ### Solution Plan:
   + Employed SQL to perform data cleaning and extraction of crucial sales Key Performance Indicators(KPIs). Subsequently, I utilised Tableau and Power BI to visualisat the derived insigts offering a clear and dynamic representation of the shops'business performance. Lastly, I formulated recommendations on how to improve business performance of the Pizza Shop.  </div>
 
-
-
+<div align="center
+ 
 ### Visualisation using Tableau
 
 </div>
