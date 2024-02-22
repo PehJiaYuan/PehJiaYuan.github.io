@@ -20,11 +20,10 @@
 ### Solution Plan:
   + Employed SQL to perform data cleaning and extraction of crucial sales Key Performance Indicators(KPIs). Subsequently, I utilised Tableau and Power BI to visualisat the derived insigts offering a clear and dynamic representation of the shops'business performance. Lastly, I formulated recommendations on how to improve business performance of the Pizza Shop.  </div>
 
-<div align="center
- 
-<b>Visualisation using Tableau<b>
-
+<div align="center">
+    <h3><strong>Visualisation using Tableau</strong></h3>
 </div>
+
 
 <center><img src="images/pizza_tableau_home.png"/></center>
 <center><img src="images/pizza_tableau_best_worst_sellers.png"/></center>
