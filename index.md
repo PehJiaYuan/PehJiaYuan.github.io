@@ -9,19 +9,7 @@
 
 ---
 
-### Project 1: Created a WordCloud and conducted Sentiment Analysis on Singapore Budget 2023 speech using Text Mining in R programming
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PehJiaYuan/WordCloud-and-SentimentAnalysis-Using-R-Programming)
-
-<div style="text-align: justify">Used R programming to create insightful WordCloud which visually encapsulates the most prominent themes and priorities outlined in the Budget 2023 speech. Additionally, I employed Sentiment Analysis to gauge how the public is likely to percieve and react to the budgetary announcements.</div> 
-
-<br>
-
-<center><img src="images/wrd_cloud_plots.png"/></center>
-<center><img src="images/senti_plots.png"/></center>
-
----
-### Project 2: Business Analysis using Microsoft SQL Server, Tableau and Microsoft Power BI
+### Project 1: Business Analysis using Microsoft SQL Server, Tableau and Microsoft Power BI
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PehJiaYuan/Pizza-Sales-Analysis)
 [![View on Tableau Public](https://img.shields.io/badge/Tableau_Public-View_on_Tableau_Public-blue?logo=Tableau)](https://public.tableau.com/app/profile/peh.jia.yuan/vizzes)
@@ -47,6 +35,18 @@ Visualisation using Microsoft Power BI
 
 <center><img src="images/powerbi_home.png"/></center>
 <center><img src="images/powerbi_best_worst_sellers.png"/></center>
+
+---
+### Project 2: Created a WordCloud and conducted Sentiment Analysis on Singapore Budget 2023 speech using Text Mining in R programming
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PehJiaYuan/WordCloud-and-SentimentAnalysis-Using-R-Programming)
+
+<div style="text-align: justify">Used R programming to create insightful WordCloud which visually encapsulates the most prominent themes and priorities outlined in the Budget 2023 speech. Additionally, I employed Sentiment Analysis to gauge how the public is likely to percieve and react to the budgetary announcements.</div> 
+
+<br>
+
+<center><img src="images/wrd_cloud_plots.png"/></center>
+<center><img src="images/senti_plots.png"/></center>
 
 ---
 ### Project 3: Assesed and Predicted potential risk of default by credit card clients using Decision Trees (CART) and Logistic Regression
