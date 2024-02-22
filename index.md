@@ -68,10 +68,7 @@
   + Additionaly, I conducted a comparative assessment of both models to ascertain their respective accuracies in predicting default occurrences. This rigorous evaluation aimed to discern the superior predictive performance within the context of credit card default risk</div>
 
 
-<div align="center">
-![image](https://github.com/PehJiaYuan/PehJiaYuan.github.io/assets/160102531/89c7df47-3164-4d58-86da-5d6eaa00d1c3)
-</div>
-
+<center><img src="images/cart_logistic.png"/></center>
 
 ---
 
