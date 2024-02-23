@@ -7,7 +7,7 @@
 ![Tableau Logo](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)
 ![Power BI Logo](https://img.shields.io/badge/Power_BI-E8AB00?logo=Power-BI&logoColor=white)
 
-### Certification
+### Certification:
 [![View_Certificate](https://img.shields.io/badge/Google_Data_Analytics-View_Certificate-blue?logo=Google)](https://github.com/PehJiaYuan/WordCloud-and-SentimentAnalysis-Using-R-Programming)
 [![View_Certificate](https://img.shields.io/badge/Google_Advanced_Data_Analytics-View_Certificate-blue?logo=Google)](https://github.com/PehJiaYuan/WordCloud-and-SentimentAnalysis-Using-R-Programming)
 
