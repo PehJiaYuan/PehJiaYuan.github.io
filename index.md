@@ -8,7 +8,7 @@
 ![Power BI Logo](https://img.shields.io/badge/Power_BI-E8AB00?logo=Power-BI&logoColor=white)
 
 ### Certification
-[![View Certificate](https://img.shields.io/badge/Google Data Analytics-View Certificate-blue?logo=Google)](https://github.com/PehJiaYuan/WordCloud-and-SentimentAnalysis-Using-R-Programming)
+[![View_Certificate](https://img.shields.io/badge/Google_Data_Analytics-View_Certificate-blue?logo=Google)](https://github.com/PehJiaYuan/WordCloud-and-SentimentAnalysis-Using-R-Programming)
 ---
 
 ### Project 1: Business Analysis using Microsoft SQL Server, Tableau and Microsoft Power BI
