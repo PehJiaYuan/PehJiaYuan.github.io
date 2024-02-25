@@ -10,7 +10,7 @@
 ### Certification:
 [![View_Certificate](https://img.shields.io/badge/Google_Data_Analytics-View_Certificate-blue?logo=Google)](https://github.com/PehJiaYuan/PehJiaYuan.github.io/blob/main/images/Google%20Data%20Analytics%20Specialisation%20Certificate.pdf)
 [![View_Certificate](https://img.shields.io/badge/Google_Advanced_Data_Analytics-View_Certificate-blue?logo=Google)](https://github.com/PehJiaYuan/PehJiaYuan.github.io/blob/main/images/Google%20Advanced%20Data%20Analytics%20Certificate.pdf)
-[![View_Certificate](https://img.shields.io/badge/Data_Wrangling_with_Python-View_Certificate-blue?logo=Coursera)](https://github.com/PehJiaYuan/PehJiaYuan.github.io/blob/main/images/Google%20Advanced%20Data%20Analytics%20Certificate.pdf)
+[![View_Certificate](https://img.shields.io/badge/Data_Wrangling_with_Python-View_Certificate-blue?logo=Coursera)](https://github.com/PehJiaYuan/PehJiaYuan.github.io/blob/main/images/Data%20Wrangling%20python_certificate.png)
 
 ---
 
